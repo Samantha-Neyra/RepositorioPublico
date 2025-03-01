@@ -1,6 +1,6 @@
 #este camvio de saludo se forzaraa s aubir en el repositorio remoto
 
-nombre = "Daniela Neyra Marquez"
+nombre = "Cambiado desde el repo local"
 saludo = "Buenos dias"
 hi = "Hola"
 
