@@ -1,2 +1,2 @@
-nombre="YANGO"
+nombre="COMIE SHIUA"
 print(hola+nombre)
