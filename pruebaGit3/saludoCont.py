@@ -1,6 +1,6 @@
 #este camvio de saludo se forzaraa s aubir en el repositorio remoto
 
-nombre = "Ivana Neyra Marquez"
+nombre = "Daniela Neyra Marquez"
 saludo = "Buenos dias"
 hi = "Hola"
 
